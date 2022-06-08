@@ -90,12 +90,12 @@ Course page for Practical Web Dev - Summer 2022
 - ### [**Assignment 2 - JavaScript Methods**](https://docs.google.com/document/d/1zRL4wmnlKqKgfaxR7UExCSPz7QEStDwH/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
 - **[Starter code for Assignment 2 (templates)](https://github.com/johnnylaicode/javascript-methods-starter-code)**
 
+**Demo**
+- JavaScript method examples ([javascript-method-examples](https://gist.github.com/johnnylaicode/cad4215ea93d5cfe0cb856e9bde8c5f9))
+
 **Intro to Assignment 3**
 - ### [Assignment 3 - Grid Maker](https://docs.google.com/document/d/1wv6CZnRBfw7ANBnlyQgxNh3mMhW1tHom/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
 - **[Starter code for Assignment 3](https://github.com/johnnylaicode/grid-maker-starter-code)**
-
-**Demo**
-- JavaScript method examples ([javascript-method-examples](https://gist.github.com/johnnylaicode/cad4215ea93d5cfe0cb856e9bde8c5f9))
 
 **Document Object Model (DOM)**
 - Intro to DOM ([slides](https://drive.google.com/file/d/1ZHHGXPDOoH4kN3CQbNuYmSbf5wOdeZ5I/view?usp=sharing))
