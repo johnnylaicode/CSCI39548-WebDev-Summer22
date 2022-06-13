@@ -84,7 +84,7 @@ Course page for Practical Web Dev - Summer 2022
 ----------
 ## Class 4 (6/9)
 **JavaScript**
-- [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
+- [Eloquent JavaScript Chapter 5: Higher-Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
 ***Continue:*** **Intro to Assignment 2**
 - ### [**Assignment 2 - JavaScript Methods**](https://docs.google.com/document/d/1zRL4wmnlKqKgfaxR7UExCSPz7QEStDwH/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
@@ -98,7 +98,7 @@ Course page for Practical Web Dev - Summer 2022
 - **[Starter code for Assignment 3](https://github.com/johnnylaicode/grid-maker-starter-code)**
 
 **Document Object Model (DOM)**
-- Intro to DOM ([slides](https://drive.google.com/file/d/1ZHHGXPDOoH4kN3CQbNuYmSbf5wOdeZ5I/view?usp=sharing))
+- Intro to DOM ([slides](https://drive.google.com/file/d/1jmLi7OlUfxZA9SlafiWwSHTi5vP94baL/view?usp=sharing))
 
 **Demo**
 - DOM examples ([dom-examples](https://github.com/johnnylaicode/dom-examples))
