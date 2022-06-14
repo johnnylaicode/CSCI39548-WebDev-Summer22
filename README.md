@@ -110,7 +110,7 @@ Course page for Practical Web Dev - Summer 2022
 ### *Reminder:* Assignment 2 - JavaScript Methods is due on Wednesday, 6/15, at 11:59 PM.
 
 **Document Object Model (DOM)**
-- Additional intro to DOM ([MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction))
+- Additional reference on intro to DOM ([MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction))
 
 **Demo**
 - Manipulate DOM in JavaScript ([DOM manipulation](https://gist.github.com/johnnylaicode/c8689ffee1f5fe516dec769d9bda1581))
@@ -135,8 +135,9 @@ Course page for Practical Web Dev - Summer 2022
 ### *Reminder:* Assignment 3 - Grid Maker is due on Friday, 6/17, at 11:59 PM.
 
 **React**
-- [React Docs: Main Concepts (Sections 1-5)](https://reactjs.org/docs/hello-world.html)
-- [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
+- Install Node.js and NPM: [Install via Download](https://nodejs.org/en/download/) or [Install via Package Manager](https://nodejs.org/en/download/package-manager/) 
+- [React Docs: Creating React App](https://reactjs.org/docs/create-a-new-react-app.html)
+- [React Docs: Main Concepts of React (Sections 1-5)](https://reactjs.org/docs/hello-world.html)
 
 **Demo**
 - A simple React application - Hello World
