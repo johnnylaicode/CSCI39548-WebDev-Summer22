@@ -132,7 +132,7 @@ Course page for Practical Web Dev - Summer 2022
 
 ----------
 ## Class 6 (6/16)
-### *Reminder:* Assignment 3 - Grid Maker is due on Friday, 6/17, at 11:59 PM.
+### *Reminder:* Assignment 3 - Grid Maker is due on (New Due Date) Monday, 6/20, at 11:59 PM.
 
 **React**
 - Install Node.js and NPM: [Install via Download](https://nodejs.org/en/download/) or [Install via Package Manager](https://nodejs.org/en/download/package-manager/) 
