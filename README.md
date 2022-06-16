@@ -136,8 +136,8 @@ Course page for Practical Web Dev - Summer 2022
 
 **React**
 - Install Node.js and NPM: [Install via Download](https://nodejs.org/en/download/) or [Install via Package Manager](https://nodejs.org/en/download/package-manager/) 
-- [React Docs: Creating React App](https://reactjs.org/docs/create-a-new-react-app.html)
-- [React Docs: Main Concepts of React (Sections 1-5)](https://reactjs.org/docs/hello-world.html)
+- [React Docs: Creating React App](https://17.reactjs.org/docs/create-a-new-react-app.html)
+- [React Docs: Main Concepts of React (Sections 1-5)](https://17.reactjs.org/docs/hello-world.html)
 
 **Demo**
 - A simple React application - Hello World
