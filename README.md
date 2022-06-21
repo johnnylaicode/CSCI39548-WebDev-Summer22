@@ -167,7 +167,6 @@ Course page for Practical Web Dev - Summer 2022
 
 **Work on the following items**
 - **Practice of React application examples (Components 1-5)**
-- **Assignment 3 - Grid Maker**
 
 **Chrome extensions used in class**
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
