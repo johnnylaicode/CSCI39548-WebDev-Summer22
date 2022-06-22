@@ -191,7 +191,7 @@ Course page for Practical Web Dev - Summer 2022
 
 ***Continue:*** **Intro to Assignment 4**
 - ### [Assignment 4 - Bank of React](https://gist.github.com/johnnylaicode/490eec295c117ae72df649a45834964d)
-- **[Example (starter) code for Assignment 4](https://github.com/johnnylaicode/bank-of-react-example-code)**
+- **[Example (starter) code for Assignment 4](https://github.com/johnnylaicode/bank-of-react-example-code-gh-pages)** (website deployed to GitHub Pages)
 
 **Intro to Final Project**
 - ### [Final Project - Full-Stack CRUD Application](https://docs.google.com/document/d/1MCqGbfVQk0kcT3gCwf8fHBNz7LAO2RCY/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
