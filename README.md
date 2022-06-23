@@ -187,6 +187,7 @@ Course page for Practical Web Dev - Summer 2022
 ----------
 ## Class 8 (6/23)
 **React Router**
+- Single-Page Application and Client-Side Routing ([slides](https://drive.google.com/file/d/1eG3GKVJPxnmQCNnyBv7qlqnBqjt8QRUU/view?usp=sharing))
 - Intro to React Router ([slides](https://drive.google.com/file/d/1Y4ZwIDnq8CehSFPIsgfqhd3GMsUln9zl/view?usp=sharing))
 
 ***Continue:*** **Intro to Assignment 4**
