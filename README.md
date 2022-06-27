@@ -236,11 +236,12 @@ Course page for Practical Web Dev - Summer 2022
 **Demo**
 - Final Project starter application
 
+**PostgreSQL and Postman**
+- [Download PostgreSQL](https://www.postgresql.org/download/)
+- [Download Postman](https://www.postman.com/downloads/)
+
 **Supplemental Materials**
 - [What's a CRUD application?](https://medium.com/geekculture/whats-a-crud-app-e5a29cce03b5)
-
-**Resources**
-- Downloads: [PostgreSQL](https://www.postgresql.org/download/) and [Postman](https://www.postman.com/downloads/)
 
 ----------
 ## Tuesday, 7/5 - NO CLASS. Classes follow Monday schedule.
