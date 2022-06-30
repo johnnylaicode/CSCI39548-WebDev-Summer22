@@ -168,7 +168,7 @@ Course page for Practical Web Dev - Summer 2022
 **Work on the following items**
 - **Practice of React application examples (Components 1-5)**
 
-**Chrome extensions used in class**
+**Web browser extensions used in class**
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 
@@ -226,7 +226,7 @@ Course page for Practical Web Dev - Summer 2022
 
 ----------
 ## Class 10 (6/30)
-### *Reminder:* Assignment 4 - Bank of React is due on Friday, 7/1, at 11:59 PM.
+### *Reminder:* Assignment 4 - Bank of React is due on (New Due Date) Sunday, 7/3, at 11:59 PM.
 
 ***Continue:*** **Intro to Final Project**
 - ### [Final Project - Full-Stack CRUD Application](https://docs.google.com/document/d/1MCqGbfVQk0kcT3gCwf8fHBNz7LAO2RCY/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
