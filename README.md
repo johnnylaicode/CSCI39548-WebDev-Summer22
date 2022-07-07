@@ -248,6 +248,8 @@ Course page for Practical Web Dev - Summer 2022
 
 ----------
 ## Class 11 (7/7)
+### *Reminder:* Final Project - Full-Stack CRUD Application is due on Wednesday, 7/13, at 11:59 PM.
+
 **RESTful API, Express, and Sequelize**
 - Build back-end application using Express and Sequelize
 - RESTful API ([slides](https://drive.google.com/file/d/1MG0Ac4evjuP2yQBbRrgNzBbnSfRZZoSE/view?usp=sharing))
@@ -276,6 +278,7 @@ Course page for Practical Web Dev - Summer 2022
 ----------
 ## Class 12 (7/12)
 ### *Reminder:* Final Project - Full-Stack CRUD Application is due on Wednesday, 7/13, at 11:59 PM.
+
 **Course Assessment Test (optional extra credit)**
 - Complete the optional Course Assessment Test on Tuesday, 7/12. 
 
